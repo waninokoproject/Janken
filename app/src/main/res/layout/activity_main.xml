@@ -20,7 +20,7 @@
         app:srcCompat="@drawable/choki" />
 
     <ImageButton
-        android:id="@+id/gu"
+        android:id="@+id/Gu"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_marginStart="16dp"
